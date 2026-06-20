@@ -5,21 +5,6 @@ permalink: /
 subtitle: 
 
 
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
----
-
 Hi! I'm currently an undergraduate student studying Computer Science at Binghamton University where I'm working under <a href="https://yinchengjin.github.io/">Yincheng Jin</a>. I'm interested in human-computer interaction and ubiquitous computing with a broad focus on enhancing decision making in people and their everyday lives.
 
 (This website is still being updated).
