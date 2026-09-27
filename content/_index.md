@@ -6,18 +6,8 @@ weight = 1
 
 # A match made in heaven
 
-hi
+Hi! I'm in my last year of undergrad studying Computer Science at Binghamton University where I am working with [Lijun Yin](https://www.cs.binghamton.edu/~lijun/). My research interests are Computer Vision and Computer Graphics, specifically for 3D facial reconstruction imaging.
 
 ---
 
-What happens when you combine the worlds' fastest, most lightweight static site generator with a design theme built to provide you with free, no-nonsense, super-fast blogging capabilities?
-
-**Use this theme, and find out!**
-
-Made with 💟 by [Jan Raasch](https://www.janraasch.com).
-
----
-
-Simply publish content online, grow an audience, and keep your pages tiny, fast, and **optimized for search engines**.
-
-Each page is ~5kb, and you can **host your blog yourself**.
+This page is still a WIP.
